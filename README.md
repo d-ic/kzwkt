@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=kzwkt&show_icons=true&theme=ADD_THEME_HERE" width="400">
 <!--
 **kzwkt/kzwkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
